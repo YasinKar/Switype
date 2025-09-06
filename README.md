@@ -26,16 +26,12 @@
 
 ## 🖼️ Preview
 
-Add your screenshots to `./assets/preview/` and update paths below.
-
 <p align="center">
   <img src="assets/preview/home.png" alt="Home" width="240"/>
-  <img src="assets/preview/session.png" alt="Typing Session" width="240"/>
-  <img src="assets/preview/stats.png" alt="Stats" width="240"/>
-  <img src="assets/preview/languages.png" alt="Languages" width="240"/>
+  <img src="assets/preview/settings.png" alt="Typing Session" width="240"/>
+  <img src="assets/preview/main1.png" alt="Stats" width="240"/>
+  <img src="assets/preview/gameover.png" alt="Languages" width="240"/>
 </p>
-
-> Tip: You can replace these with Markdown image links if you prefer.
 
 ---
 

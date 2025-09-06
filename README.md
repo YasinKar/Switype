@@ -26,11 +26,11 @@
 
 ## 🖼️ Preview
 
-<p align="center">
-  <img src="./switype/assets/preview/home.png" alt="Home" width="240"/>
-  <img src="./switype/assets/preview/settings.png" alt="Typing Session" width="240"/>
-  <img src="./switype/assets/preview/main1.png" alt="Stats" width="240"/>
-  <img src="./switype/assets/preview/gameover.png" alt="Languages" width="240"/>
+<p align="center" >
+  <img src="https://github.com/YasinKar/Switype/blob/main/switype/assets/preview/home.jpg" alt="Home" width="240"/>
+   <img src="https://github.com/YasinKar/Switype/blob/main/switype/assets/preview/main1.jpg" alt="main" width="240"/>
+  <img src="https://github.com/YasinKar/Switype/blob/main/switype/assets/preview/gameover.jpg" alt="gameover" width="240"/>
+  <img src="https://github.com/YasinKar/Switype/blob/main/switype/assets/preview/settings.jpg" alt="settings" width="240"/>
 </p>
 
 ---

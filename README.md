@@ -27,10 +27,10 @@
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="assets/preview/home.png" alt="Home" width="240"/>
-  <img src="assets/preview/settings.png" alt="Typing Session" width="240"/>
-  <img src="assets/preview/main1.png" alt="Stats" width="240"/>
-  <img src="assets/preview/gameover.png" alt="Languages" width="240"/>
+  <img src="./switype/assets/preview/home.png" alt="Home" width="240"/>
+  <img src="./switype/assets/preview/settings.png" alt="Typing Session" width="240"/>
+  <img src="./switype/assets/preview/main1.png" alt="Stats" width="240"/>
+  <img src="./switype/assets/preview/gameover.png" alt="Languages" width="240"/>
 </p>
 
 ---

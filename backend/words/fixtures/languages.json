@@ -1,0 +1,19 @@
+[
+  {"model": "words.language", "pk": 1, "fields": {"name": "Persian", "code": "fa", "letters": "ابپتثجچحخدذرزژسشصضطظعغفقکگلمنوهی"}},
+  {"model": "words.language", "pk": 2, "fields": {"name": "English", "code": "en", "letters": "abcdefghijklmnopqrstuvwxyz"}},
+  {"model": "words.language", "pk": 3, "fields": {"name": "German", "code": "de", "letters": "abcdefghijklmnopqrstuvwxyzäöüß"}},
+  {"model": "words.language", "pk": 4, "fields": {"name": "French", "code": "fr", "letters": "abcdefghijklmnopqrstuvwxyzàâçéèêëîïôûùüÿœæ"}},
+  {"model": "words.language", "pk": 5, "fields": {"name": "Spanish", "code": "es", "letters": "abcdefghijklmnñopqrstuvwxyzáéíóúü"}},
+  {"model": "words.language", "pk": 6, "fields": {"name": "Russian", "code": "ru", "letters": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя"}},
+  {"model": "words.language", "pk": 7, "fields": {"name": "Arabic", "code": "ar", "letters": "ابتثجحخدذرزسشصضطظعغفقكلمنهوي"}},
+  {"model": "words.language", "pk": 8, "fields": {"name": "Italian", "code": "it", "letters": "abcdefghijklmnopqrstuvwxyzàèéìíîòóùú"}},
+  {"model": "words.language", "pk": 9, "fields": {"name": "Portuguese", "code": "pt", "letters": "abcdefghijklmnopqrstuvwxyzáâãàçéêíóôõú"}},
+  {"model": "words.language", "pk": 10, "fields": {"name": "Hindi", "code": "hi", "letters": "अआइईउऊऋएऐओऔकखगघङचछजझञटठडढणतथदधनपफबभमयरलवशषसहक्षत्रज्ञ"}},
+  {"model": "words.language", "pk": 11, "fields": {"name": "Turkish", "code": "tr", "letters": "abcçdefgğhıijklmnoöprsştuüvyz"}},
+  {"model": "words.language", "pk": 12, "fields": {"name": "Dutch", "code": "nl", "letters": "abcdefghijklmnopqrstuvwxyz"}},
+  {"model": "words.language", "pk": 13, "fields": {"name": "Greek", "code": "el", "letters": "αβγδεζηθικλμνξοπρστυφχψω"}},
+  {"model": "words.language", "pk": 14, "fields": {"name": "Polish", "code": "pl", "letters": "aąbcćdeęfghijklłmnńoópqrsśtuvwxyzźż"}},
+  {"model": "words.language", "pk": 15, "fields": {"name": "Hebrew", "code": "he", "letters": "אבגדהוזחטיכלמנסעפצקרשת"}},
+  {"model": "words.language", "pk": 16, "fields": {"name": "Swedish", "code": "sv", "letters": "abcdefghijklmnopqrstuvwxyzåäö"}},
+  {"model": "words.language", "pk": 17, "fields": {"name": "Finnish", "code": "fi", "letters": "abcdefghijklmnopqrstuvwxyzåäö"}}
+]
